@@ -10,7 +10,7 @@
     o layout da página foi inspirado na letra "T", uma letra 
     especial pra mim. As cores da página são as minhas 
     favoritas, e a música "linkada" no botão também é a minha
-     favotita.
+    favotita.
 
     Não usei responsividade ainda, pois vou me aprofundar e
     aplicar em futuros projetos em breve. Estou ansioso para
